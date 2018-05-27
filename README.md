@@ -3,7 +3,7 @@
 ## Catálogo
 | <img src="https://raw.githubusercontent.com/AlmeriaJS/camisetas/master/img/javascript-azul-royal.jpg" alt="javascript-azul-royal"> | <img src="https://raw.githubusercontent.com/AlmeriaJS/camisetas/master/img/javascript-mujer-blanco.jpg" alt="javascript-mujer-blanco"> | <img src="https://raw.githubusercontent.com/AlmeriaJS/camisetas/master/img/javascript-negro.jpg" alt="javascript-negro"> |
 |:---:|:---:|:---:|
-| Javascritpt azul royal | Javascript mujer blanco | Javascript negro |
+| Javascript azul royal | Javascript mujer blanco | Javascript negro |
 
 | <img src="https://raw.githubusercontent.com/AlmeriaJS/camisetas/master/img/javascript-blanco.jpg" alt="javascript-blanco"> | <img src="https://raw.githubusercontent.com/AlmeriaJS/camisetas/master/img/javascript-mujer-gris-vigore.jpg" alt="javascript-mujer-gris-vigore"> | <img src="https://raw.githubusercontent.com/AlmeriaJS/camisetas/master/img/javascript-rosa.jpg" alt="javascript-rosa"> |
 |:---:|:---:|:---:|
@@ -25,7 +25,9 @@
 |:---:|:---:|:---:|
 | Angular Almería gris plomo | Angular almería azul royal | Angular Almería blanco |
 
-
+## Estampado de calidad
+![](https://raw.githubusercontent.com/AlmeriaJS/camisetas/master/img/angular-almeria1.jpg) 
+![](https://raw.githubusercontent.com/AlmeriaJS/camisetas/master/img/angular-almeria2.jpg)
 
 ## Colores, tipos y tallas
 Todas las camisetas se pueden pedir en modelo unisex o mujer, independientemente de como se muestren en el catálogo.
