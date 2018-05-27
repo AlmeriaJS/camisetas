@@ -1,27 +1,27 @@
 # Camisetas AlmeriaJS
 
 ## Catálogo
-| <img src="https://raw.githubusercontent.com/AlmeriaJS/camisetas/master/img/javascript-azul-royal.jpg" height="300" alt> | <img src="https://raw.githubusercontent.com/AlmeriaJS/camisetas/master/img/javascript-mujer-blanco.jpg" height="300" alt> | <img src="https://raw.githubusercontent.com/AlmeriaJS/camisetas/master/img/javascript-negro.jpg" height="300" alt> |
+| <img src="https://raw.githubusercontent.com/AlmeriaJS/camisetas/master/img/javascript-azul-royal.jpg" alt="javascript-azul-royal"> | <img src="https://raw.githubusercontent.com/AlmeriaJS/camisetas/master/img/javascript-mujer-blanco.jpg" alt="javascript-mujer-blanco"> | <img src="https://raw.githubusercontent.com/AlmeriaJS/camisetas/master/img/javascript-negro.jpg" alt="javascript-negro"> |
 |:---:|:---:|:---:|
 | Javascritpt azul royal | Javascript mujer blanco | Javascript negro |
 
-| <img src="https://raw.githubusercontent.com/AlmeriaJS/camisetas/master/img/javascript-blanco.jpg" height="300" alt> | <img src="https://raw.githubusercontent.com/AlmeriaJS/camisetas/master/img/javascript-mujer-gris-vigore.jpg" height="300" alt> | <img src="https://raw.githubusercontent.com/AlmeriaJS/camisetas/master/img/javascript-rosa.jpg" height="300" alt> |
+| <img src="https://raw.githubusercontent.com/AlmeriaJS/camisetas/master/img/javascript-blanco.jpg" alt="javascript-blanco"> | <img src="https://raw.githubusercontent.com/AlmeriaJS/camisetas/master/img/javascript-mujer-gris-vigore.jpg" alt="javascript-mujer-gris-vigore"> | <img src="https://raw.githubusercontent.com/AlmeriaJS/camisetas/master/img/javascript-rosa.jpg" alt="javascript-rosa"> |
 |:---:|:---:|:---:|
 | Javascript blanco | Javascript mujer gris vigoré | Javascript rosa |
 
-| <img src="https://raw.githubusercontent.com/AlmeriaJS/camisetas/master/img/javascript-gris-plomo.jpg" height="300" alt> | <img src="https://raw.githubusercontent.com/AlmeriaJS/camisetas/master/img/javascript-mujer-negro.jpg" height="300" alt> | <img src="https://raw.githubusercontent.com/AlmeriaJS/camisetas/master/img/javascript-verde-olivo.jpg" height="300" alt> |
+| <img src="https://raw.githubusercontent.com/AlmeriaJS/camisetas/master/img/javascript-gris-plomo.jpg" alt="javascript-gris-plomo"> | <img src="https://raw.githubusercontent.com/AlmeriaJS/camisetas/master/img/javascript-mujer-negro.jpg" alt="javascript-mujer-negro"> | <img src="https://raw.githubusercontent.com/AlmeriaJS/camisetas/master/img/javascript-verde-olivo.jpg" alt="javascript-verde-olivo"> |
 |:---:|:---:|:---:|
 | Javascript gris plomo | Javascript mujer negro | Javascript verde olivo |
 
-| <img src="https://raw.githubusercontent.com/AlmeriaJS/camisetas/master/img/javascript-gris-vigore.jpg" height="300" alt> | <img src="https://raw.githubusercontent.com/AlmeriaJS/camisetas/master/img/javascript-mujer-rosa-claro.jpg" height="300" alt> | <img src="https://raw.githubusercontent.com/AlmeriaJS/camisetas/master/img/javascript-mujer-azul-royal.jpg" height="300" alt> |
+| <img src="https://raw.githubusercontent.com/AlmeriaJS/camisetas/master/img/javascript-gris-vigore.jpg" alt="javascript-gris-vigore"> | <img src="https://raw.githubusercontent.com/AlmeriaJS/camisetas/master/img/javascript-mujer-rosa-claro.jpg" alt="javascript-mujer-rosa-claro"> | <img src="https://raw.githubusercontent.com/AlmeriaJS/camisetas/master/img/javascript-mujer-azul-royal.jpg" alt="javascript-mujer-azul-royal"> |
 |:---:|:---:|:---:|
 | Javascript gris vigoré | Javascript mujer rosa claro | Javascript mujer azul royal |
 
-| <img src="https://raw.githubusercontent.com/AlmeriaJS/camisetas/master/img/javascript-mujer-rosa-roseton.jpg" height="300" alt> | <img src="https://raw.githubusercontent.com/AlmeriaJS/camisetas/master/img/angular-almeria-gris-vigore.jpg"  height="300" alt> | <img src="https://raw.githubusercontent.com/AlmeriaJS/camisetas/master/img/angular-almeria-negro.jpg" height="300" alt> |
+| <img src="https://raw.githubusercontent.com/AlmeriaJS/camisetas/master/img/javascript-mujer-rosa-roseton.jpg" alt="javascript-mujer-rosa-roseton"> | <img src="https://raw.githubusercontent.com/AlmeriaJS/camisetas/master/img/angular-almeria-gris-vigore.jpg"  alt="angular-almeria-gris-vigore"> | <img src="https://raw.githubusercontent.com/AlmeriaJS/camisetas/master/img/angular-almeria-negro.jpg" alt="angular-almeria-negro"> |
 |:---:|:---:|:---:|
 | Javascript mujer rosa rosetón | Angular Almería gris vigoré | Angular Almería negro |
 
-| <img src="https://raw.githubusercontent.com/AlmeriaJS/camisetas/master/img/angular-almeria-gris-plomo.jpg" height="300" alt> | <img src="https://raw.githubusercontent.com/AlmeriaJS/camisetas/master/img/angular-almeria-azul.jpg"  height="300" alt> | <img src="https://raw.githubusercontent.com/AlmeriaJS/camisetas/master/img/angular-almeria-blanco.jpg" height="300" alt> |
+| <img src="https://raw.githubusercontent.com/AlmeriaJS/camisetas/master/img/angular-almeria-gris-plomo.jpg" alt="angular-almeria-gris-plomo"> | <img src="https://raw.githubusercontent.com/AlmeriaJS/camisetas/master/img/angular-almeria-azul.jpg"  alt="angular-almeria-azul"> | <img src="https://raw.githubusercontent.com/AlmeriaJS/camisetas/master/img/angular-almeria-blanco.jpg" alt="angular-almeria-blanco"> |
 |:---:|:---:|:---:|
 | Angular Almería gris plomo | Angular almería azul royal | Angular Almería blanco |
 
