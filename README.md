@@ -1,6 +1,16 @@
 # Camisetas AlmeriaJS
 
 ## Catálogo
+| <img src="https://raw.githubusercontent.com/AlmeriaJS/camisetas/master/img/almeriajs-jarra-blanco.jpg" alt="almeriajs-jarra-blanco"> | <img src="https://raw.githubusercontent.com/AlmeriaJS/camisetas/master/img/almeriajs-jarra-negro.jpg" alt="almeriajs-jarra-negro"> | <img src="https://raw.githubusercontent.com/AlmeriaJS/camisetas/master/img/almeriajs-jara-almarillo.jpg" alt="almeriajs-jara-almarillo"> |
+|:---:|:---:|:---:|
+| AlmeríaJS jarra blanco | AlmeríaJS jarra negro | AlmeríaJS jarra amarillo |
+
+| <img src="https://raw.githubusercontent.com/AlmeriaJS/camisetas/master/img/js-negro.jpg" alt="js-negro"> | <img src="https://raw.githubusercontent.com/AlmeriaJS/camisetas/master/img/js-verde-militar.jpg" alt="js-verde-militar"> | <img src="https://raw.githubusercontent.com/AlmeriaJS/camisetas/master/img/js-gris-pomo.jpg" alt="js-gris-pomo"> |
+|:---:|:---:|:---:|
+| JS negro | JS verde militar | JS gris plomo |
+
+
+
 | <img src="https://raw.githubusercontent.com/AlmeriaJS/camisetas/master/img/javascript-azul-royal.jpg" alt="javascript-azul-royal"> | <img src="https://raw.githubusercontent.com/AlmeriaJS/camisetas/master/img/javascript-mujer-blanco.jpg" alt="javascript-mujer-blanco"> | <img src="https://raw.githubusercontent.com/AlmeriaJS/camisetas/master/img/javascript-negro.jpg" alt="javascript-negro"> |
 |:---:|:---:|:---:|
 | Javascript azul royal | Javascript mujer blanco | Javascript negro |
